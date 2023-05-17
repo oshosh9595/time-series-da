@@ -89,6 +89,9 @@ jupyter lab
 
 > style은 cdn으로 연결.
 
+> model.py 와 app.py에 분석 및 예측 templates에 http 화면 띄우기
+
+> https://tailerbox.tistory.com/55 flask 동기 비동기 활용(핵심문법)
 ## Historical 데이터분석 + RealTime 데이터분석
 
 > 기존 데이터를 불러와 분석결과를 표시하는 것과 실시간 데이터를 불러와 분석하는 방법 제시.
